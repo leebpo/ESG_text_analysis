@@ -1,0 +1,16 @@
+Industry,Company,Token,Type,Content Token,Lemmas
+Technology,Cisco,24178,3482,12382,12382
+Technology,Amazon,48331,5149,25897,25897
+Technology,Apple,50003,4626,25575,25575
+Retail,Target,60984,4837,32728,32728
+Retail,Ross,19748,2797,10216,10216
+Retail,Tjx,39345,4188,20208,20208
+Food,GeneralMills,50667,5308,27907,27907
+Food,KraftHeinz,36628,4298,19868,19868
+Food,Hershey,68021,5802,36181,36181
+Airlines,American Airline,37588,4363,18924,18924
+Airlines,Delta,36035,4592,19739,19739
+Airlines,Southwest Airlines,63642,5492,33504,33504
+Media,Disney,42160,4426,21642,21642
+Media,Fox,23992,3942,13541,13541
+Media,Netflix,20491,2977,10964,10964
