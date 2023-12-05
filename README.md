@@ -4,13 +4,13 @@ Final Project for Fall 2023 course CSCI2349:Text Processing, taught by Professor
 
 ## Introduction
 
-This is a text analysis project on ESG reports that explores company priorities. ESG reports are documents outlining a company’s goals and performances in the areas of environmental, social, and governance practices. We want to explore a company’s values and what topics they focus on, as well as whether these values are shared across the industry. <br>
+This is a text analysis project on ESG reports. ESG reports are documents outlining a company’s goals and performances in the areas of environmental, social, and governance practices. We want to explore a company’s values and whether these values are shared across the industry. <br>
 
 ## Data
 
-We picked 5 industries for our data which includes Food, Technology, Media, Retail and Airlines and we picked 3 companies for each industry. We have downloaded 15 ESG pdf reports from 2022-2023 from companies' respective websites and stored them in the `Reports/` folder. <br>
+We picked 5 industries: Food, Technology, Media, Retail and Airlines. We picked 3 companies for each industry. We downloaded 15 ESG pdf reports from 2022-2023 from companies' respective websites and stored them in the `Reports/` folder. <br>
 
-We also have a csv file `ESGword.csv` which hold keywords and key bigrams that relate to environmental, social and governance categories. We made this csv by first creating a default list using ChatGPT then iterativly pulling word frequencies from the report texts to add more common phrases that fell into those categories and maximize these lists in the csv as much as possible.
+We also have a csv file `ESGword.csv` holding keywords and key bigrams that relate to environmental, social and governance categories. We made this csv by first generating a default list using ChatGPT then iterativly pulling word frequencies from the report texts to add more common phrases to maximize these lists as much as possible.
 
 ## Code
 
