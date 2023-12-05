@@ -1,5 +1,5 @@
 # ESG_text_analysis
-Final Project for Fall 2023 course CSCI2349:Text Processing, taught by Professor Prud'hommeaux
+Final Project for Fall 2023 course CSCI2349:Text Processing, taught by Professor Prud'hommeaux<br>
 *Richard Shum, Christy Fang, Hedy Sun, Jo Lee*
 
 ## Introduction
